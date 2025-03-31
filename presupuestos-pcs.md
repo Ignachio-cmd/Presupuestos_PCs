@@ -14,7 +14,7 @@
 | Almacenamiento | ADATA GAMMIX S55 | • Capacidad: 1TB• Velocidad: 5000MB/s• PCIe 4.0 NVMe | 112,14€ | [Link de compra](https://www.pccomponentes.com/disco-duro-adata-gammix-s55-ssd-512gb-m2-pcie-gen4-2230) |
 | Tarjeta Gráfica | MSI NVIDIA RTX 4060 VENTUS 2X OC | • 8GB GDDR6• Diseño de doble ventilador• Overclock de fábrica | 339,01€ | [Link de compra](https://www.pccomponentes.com/msi-geforce-rtx-3060-ventus-2x-oc-lhr-12gb-gddr6) |
 | Fuente de Alimentación | HIDITEC BZ750 | • Potencia: 750W• Certificación 80+ Bronze | 65,05€ | [Link de compra](https://www.pccomponentes.com/hiditec-bz750-750w-80-plus-bronze) |
-| Gabinete | NOX HUMMER TGM RAINBOW | • Color: Negro• Cristal templado• USB 3.0• Iluminación RGB | 69,22€ | [Link de compra](hhttps://www.pccomponentes.com/nox-hummer-tgm-argb-cristal-templado-usb-30) |
+| Gabinete | NOX HUMMER TGM RAINBOW | • Color: Negro• Cristal templado• USB 3.0• Iluminación RGB | 69,22€ | [Link de compra](https://www.pccomponentes.com/nox-hummer-tgm-argb-cristal-templado-usb-30) |
 | Refrigeración | Cooler Master MASTERLIQUID LITE 120 | • Refrigeración líquida• Radiador de 120mm• Compatible Intel/AMD | 50,53€ | [Link de compra](https://www.pccomponentes.com/cooler-master-masterliquid-lite-120) |
 
 ## Presupuesto Total
