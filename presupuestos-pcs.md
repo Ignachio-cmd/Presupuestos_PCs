@@ -2,7 +2,7 @@
 
 # Presupuesto PC Gaming AMD
 
-![AMD Gaming PC](URL_DE_LA_IMAGEN_AMD_PC)
+![presupuestos-pcs](amd.png)
 
 ## Componentes
 
@@ -25,7 +25,7 @@
 
 # Presupuesto PC Gaming Intel
 
-![Intel Gaming PC](URL_DE_LA_IMAGEN_INTEL_PC)
+![presupuestos-pcs](intel.png)
 
 
 ## Componentes
