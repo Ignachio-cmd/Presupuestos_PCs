@@ -13,7 +13,7 @@ Este repositorio contiene dos configuraciones diferentes de PC gaming adaptadas 
   - 32GB RAM RGB
   - SSD NVMe 1TB
   - Refrigeración líquida
-- [Ver configuración completa](./presupuesto_pcs.md)
+- [Ver configuración completa](./presupuesto-pcs.md)
 
 ### 2. PC Gaming Intel
 
@@ -24,7 +24,7 @@ Este repositorio contiene dos configuraciones diferentes de PC gaming adaptadas 
   - 32GB RAM
   - SSD NVMe 1TB
   - Refrigeración líquida 360mm
-- [Ver configuración completa](./presupuesto_pcs.md)
+- [Ver configuración completa](./presupuesto-pcs.md)
 
 ## Comparativa de Precios
 
